@@ -1778,3 +1778,10 @@
 /Library/TerrainTools/SetHeight filter=lfs diff=lfs merge=lfs -text
 /Library/expandedItems filter=lfs diff=lfs merge=lfs -text
 *.log filter=lfs diff=lfs merge=lfs -text
+/Library/Artifacts/4a/4a05052f8b4d6185f9743b075ebb7281 filter=lfs diff=lfs merge=lfs -text
+/Library/Artifacts/60/60d99ac56b19a22b16ae8327d6ab4805 filter=lfs diff=lfs merge=lfs -text
+/Library/Artifacts/83/839b3a0d5aa34c4d60031245431cb77c filter=lfs diff=lfs merge=lfs -text
+/Library/Artifacts/8e/8e3250313d8e083f8474061adf0993dc filter=lfs diff=lfs merge=lfs -text
+/Library/Artifacts/8f/8f6fa2cac6b6238f2a6ca3a3a8bd65f2 filter=lfs diff=lfs merge=lfs -text
+/Library/Artifacts/c2/c2ab1a2c8ebe4847f514aa0010a24e10 filter=lfs diff=lfs merge=lfs -text
+/Library/Artifacts/d4/d4029084a8d5a8a3636afeb9a0ec7c78 filter=lfs diff=lfs merge=lfs -text
